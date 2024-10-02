@@ -41,4 +41,4 @@ The project uses a synthetic dataset simulating traffic volume, weather conditio
 
 ## License
 
-Copyright (c) [2024] [Heriz Oumaima]
+Copyright (c) 2024 Heriz Oumaima.
