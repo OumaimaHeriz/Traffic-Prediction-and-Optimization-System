@@ -39,6 +39,6 @@ The project uses a synthetic dataset simulating traffic volume, weather conditio
 - `weather`: Weather condition (0 for clear, 1 for rain).
 - `road_type`: Type of road (0 for urban, 1 for highway).
 
-#License
+## License
 
 Copyright (c) [2024] [Heriz Oumaima]
