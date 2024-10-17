@@ -4,15 +4,6 @@
 
 The **Traffic Prediction and Optimization System** uses machine learning techniques to predict traffic volume based on historical data and various environmental factors. Additionally, it implements Dijkstra's algorithm to find the shortest path in a simulated traffic network. This project aims to provide insights into traffic patterns and optimize route planning.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
 
 ## Features
 
